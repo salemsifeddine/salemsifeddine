@@ -5,6 +5,6 @@ Hey There
 - 👯 I’m looking to collaborate on ... a potential E-commerce website
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ... Django , React and mobile app dev 
-- 📫 How to reach me: ... [facebook](https://www.facebook.com/Sifoutony/)
+- 📫 How to reach me: ... [facebook](https://www.facebook.com/Sifoutony/) or [instagram](https://www.instagram.com/joesdevil.py/)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... Iam half fannish
