@@ -6,7 +6,7 @@
 -👯 I’m looking to collaborate with other content creators ... and specially in a potential E-commerce website
 - 🤔 I want to collaborate in ... more web projects 
 - 💬 Ask me about ... Django , React and mobile app dev 
-- 📫 How to reach me: ... [facebook](https://www.facebook.com/Sifoutony/) or [instagram](https://www.instagram.com/joesdevil.py/)
+- 📫 How to reach me: ... [joe][facebook] or [joesdevil.py][instagram]
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am an athlete 
@@ -42,4 +42,4 @@
 
 [facebook]: https://www.facebook.com/Sifoutony/
 
-
+[facebook]: https://www.instagram.com/joesdevil.py/
