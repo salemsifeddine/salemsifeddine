@@ -37,6 +37,9 @@
 [<img align="left" alt="Django" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" />][instagram]
 [<img align="left" alt="Flutter" width="26px" src="https://image.pngaaa.com/955/5042955-middle.png"/>][instagram]
 
+-----
+<img align="left" alt="salemsifeddine" src="https://github-readme-stats.vercel.app/api?username=salemsifeddine&show_icons=true&hide_border=true />
+
 [facebook]: https://www.facebook.com/Sifoutony/
 
 [instagram]: https://www.instagram.com/joesdevil.py/
