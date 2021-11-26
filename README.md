@@ -35,8 +35,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][instagram]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][instagram]
 [<img align="left" alt="Django" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" />][instagram]
-
-
+[<img align="left" alt="Flutter" width="26px" src="https://www.xda-developers.com/files/2018/02/Flutter-Framework-Feature-Image-Background-Colour.png
+" />][instagram]
 
 [facebook]: https://www.facebook.com/Sifoutony/
 
