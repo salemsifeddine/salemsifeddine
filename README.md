@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as ... a full stuck web devoloper 
 - 🌱 I’m currently learning ... flutter
--👯 I’m looking to collaborate with other content creators ... and specially in a potential E-commerce website
+-👯 I’m looking to collaborate with other content creators ... specially in E-commerce website
 - 🤔 I want to collaborate in ... more web projects 
 - 💬 Ask me about ... Django , React and mobile app dev 
 - 📫 How to reach me: ... [salem sif eddine][facebook] or [joesdevil.py][instagram]
