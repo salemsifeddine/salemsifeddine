@@ -1,4 +1,4 @@
-### Hi there, I'm Salem Sif eddine - aka [joe][facebook](https://www.facebook.com/Sifoutony/) 👋
+### Hi there, I'm Salem Sif eddine - aka [joe][facebook] 👋
 ## I'm a Student, Athelte, Developer, and a Fun guy!!
 
 - 🔭 I’m currently working as ... a full stuck web devoloper 
@@ -15,7 +15,7 @@
  
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Instagram Follow](https://img.shields.io/instagram/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 <br />
 
@@ -40,6 +40,6 @@
 
 
 
-
+[facebook]: https://www.facebook.com/Sifoutony/
 
 
