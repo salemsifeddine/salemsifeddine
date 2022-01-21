@@ -2,7 +2,7 @@
 ## I'm a Student, Athelte, Developer, and a Fun guy!!
 
 - 🔭 I’m currently working as ... a full stuck web devoloper 
-- 🌱 I’m currently learning ... flutter
+- 🌱 I’m currently learning ... flutter..
 -👯 I’m looking to collaborate with other content creators ... specially in E-commerce website
 - 🤔 I want to collaborate in ... more web projects 
 - 💬 Ask me about ... Web,App Devvlopement, Web scrapping, Arduino..
