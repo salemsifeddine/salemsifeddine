@@ -1,7 +1,7 @@
 ### Hi there, I'm Salem Sif eddine - aka [joe][facebook] 👋
 ## I'm a Student, Athelte, Developer, and a Fun guy!!
 
-- 🔭 I’m currently working as ... a full stuck web devoloper 
+- 🔭 I’m currently working as ... a full stack web devoloper 
 - 🌱 I’m currently learning ... flutter..
 - 🤔 I want to collaborate in ... more web projects 
 - 💬 Ask me about ... Web,App Devvlopement, Web scrapping, Arduino..
