@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ... flutter..
 - 🤔 I want to collaborate in ... more web projects 
 - 💬 Ask me about ... Web,App Devvlopement, Web scrapping, Arduino..
-- 📫 How to reach me: ... [salem sif eddine][facebook] or [joesdevil.py][instagram]
+- 📫 How to reach me: ... [salem sif eddine][facebook] or [joesdevil.fit][instagram]
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am an athlete 
@@ -13,7 +13,7 @@
 
  
 
-[![facebook](https://img.shields.io/website?label=instagram.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/joesdevil.py/)
+[![facebook](https://img.shields.io/website?label=instagram.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.instagram.com/joesdevil.fit/)
 [![Twitter Follow](https://img.shields.io/github/followers/salemsifeddine?style=social)](https://github.com/salemsifeddine)
 
 <br></br>
