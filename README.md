@@ -44,4 +44,4 @@
 
 [facebook]: https://www.facebook.com/Sifoutony/
 
-[instagram]: https://www.instagram.com/joesdevil.py/
+[instagram]: https://www.instagram.com/joesdevil.fit/
