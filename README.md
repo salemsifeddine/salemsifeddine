@@ -6,7 +6,7 @@
 - 🤔 I want to collaborate in ... more web projects 
 - 💬 Ask me about ... Web,App Devvlopement, Web scrapping, Arduino..
 - 📫 How to reach me: ... [salem sif eddine][facebook] or [joesdevil.fit][instagram]
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am an athlete 
 
