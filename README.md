@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am an athlete 
-
+visit my protfolio on: https://portfoliosifou.herokuapp.com/
 
  
 
